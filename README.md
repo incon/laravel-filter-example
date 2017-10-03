@@ -10,7 +10,7 @@ Simple Laravel site, showing an API being called using AJAX.
 ### Environment
 Setup .env with a valid database connection.
 
-### Mirage
+### Migrate
 `php artisan migrate`
 
 ### Seed the database
